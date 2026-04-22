@@ -55,7 +55,7 @@ const Navbar = () => {
             {isOpen && (<div className='md:hidden border-t backdrop-blur-xl bg-[#19243899]/.6 border-[#364563] rounded-xl hover:border-[#1a6ef4]/24 hover:shadow-lg hover:shadow-[#1a6ef4]/10'>
                 <div className='flex flex-col p-4 gap-4'>
                     <a className='text-sm text-[#8596ad] hover:text-white' href="#about">About</a>
-                    <a className='text-sm text-[#8596ad] hover:text-white' href="#skills">Expertis</a>
+                    <a className='text-sm text-[#8596ad] hover:text-white' href="#skills">Expertise</a>
                     <a className='text-sm text-[#8596ad] hover:text-white' href="#experience">Experience</a>
                     <a className='text-sm text-[#8596ad] hover:text-white' href="#education">Education</a>
                     <a className='text-sm text-[#8596ad] hover:text-white' href="#contact">Contact</a>
